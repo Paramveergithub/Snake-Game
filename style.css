@@ -1,0 +1,14 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+canvas{
+  border: 10px solid rgb(72, 22, 22);
+  background-color: rgb(15, 50, 13);
+  display: flex;
+  margin: auto;
+  height: 95vh;
+  width: 95vw;
+}
+
